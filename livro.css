@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body{
+    background-image: url(./images/pagina.jpg);
+    background-size: cover;
+}
+
+
+.titul{
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Dancing Script', cursiva;
+}
+
+.conteudo{
+    text-align: center;
+    font-size: 20px;
+}
+
+.nome1{
+    text-align: center;
+    font-size: 39px;
+    font-family: 'Dancing Script', cursiva;
+    color: black;
+}
+
+.autor{
+    text-align: center;
+    font-size: 44px;
+    font-family: 'Dancing Script', cursiva;
+    color: black;
+}
+
+.Segundoautor{
+    color: black;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Dancing Script', cursiva;
+
+}
+.texto{
+    color: black;
+}
+.Segundotexto{
+    color: black;
+}
